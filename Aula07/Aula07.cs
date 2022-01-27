@@ -4,6 +4,6 @@ class Aula07{
         const string canal="CFB Curso";
         const double pi=3.1415;
 
-        Console.WriteLine("Canal {0}",canal);
+        Console.WriteLine("Canal: {0}\nPi: {1}",canal,pi);
     }
 }
