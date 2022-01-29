@@ -4,7 +4,7 @@ class Aula09{
 
     static void Main(){
 
-        int num=10;
+        int num=20;
 
         num=num<<1;
 
