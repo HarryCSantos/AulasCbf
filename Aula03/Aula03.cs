@@ -14,7 +14,7 @@ class Aula03{
 
         var aux=nome;
 
-        Console.WriteLine("Valor da Variável: " + aux + " is a worderful woman!");
+        Console.WriteLine("Valor da Variável: " + aux + " is an amazing woman!");
 
         Console.WriteLine("A multiplicação de " + num1 + " vezes " + num2 + " é igual a: " + num1*num2);
     }
