@@ -10,7 +10,7 @@ class Aula05{
 
         double valorCompra=5.50;
         double valorVenda;
-        double lucro=0.1;
+        double lucro=0.2;
         string produto="Pastel";
 
         valorVenda=valorCompra+(valorCompra*lucro);
