@@ -4,7 +4,7 @@ class Aula05{
 
     static void Main(){
 
-        int num=10;
+        float num=10;
 
         num=num+1;
 
