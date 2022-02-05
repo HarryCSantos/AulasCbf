@@ -4,8 +4,8 @@ class Aula11{
     static void Main(){
 
         int vInt=10;
-        long vLong=vInt;
+        short vShort=(short)vInt;
 
-        Console.WriteLine(vLong);
+        Console.WriteLine(vShort);
     }
 }
