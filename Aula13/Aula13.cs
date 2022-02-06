@@ -28,10 +28,13 @@ class Aula12{
         //59 e 40 - Recuperação
         //<40 - Reprovado
 
-        if(res >=60){
-            resultado="Aprovado";
-        }else{ 
+        if(res < 40){
             resultado="Reprovado";
+        }else if (res < 60){  
+            resultado="Recuperação";
+        }else{ 
+            resultado="Aprovado";
+
         }
 
         Console.WriteLine("Nota: {0} - Resultado: {1}",res,resultado);
