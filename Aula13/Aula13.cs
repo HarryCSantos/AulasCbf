@@ -24,6 +24,10 @@ class Aula12{
 
         res=n1+n2+n3+n4;
 
+        //>=60 - Aprovado
+        //59 e 40 - Recuperação
+        //<40 - Reprovado
+
         if(res >=60){
             resultado="Aprovado";
         }else{ 
