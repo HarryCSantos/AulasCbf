@@ -4,15 +4,18 @@ class Aula12{
 
     static void Main(){
 
-        //Se(Expressão_Lógica V) {executa a ação}
+        //IF-->Se(Expressão_Lógica V) {executa a ação}
         
         int nota=80;
+        string resultado="Reprovado";
 
         if(nota >=60){
-            Console.WriteLine("Aprovado");
+            resultado="Aprovado";
 
         }
 
+        Console.WriteLine("Resultado:{0}",resultado);
 
     }
 }
+
