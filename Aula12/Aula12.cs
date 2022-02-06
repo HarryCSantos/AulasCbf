@@ -6,7 +6,7 @@ class Aula12{
 
         //IF-->Se(Expressão_Lógica V) {executa a ação}
         
-        int nota=80;
+        int nota=50;
         string resultado="Reprovado";
 
         if(nota >=60){
