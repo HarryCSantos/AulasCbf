@@ -6,8 +6,10 @@ class Aula12{
 
         //IF-->Se(Expressão_Lógica V) {executa a ação}
         
-        int nota=50;
+        int nota=0;
         string resultado="Reprovado";
+
+        nota=int.Parse(Console.ReadLine());
 
         if(nota >=60){
             resultado="Aprovado";
