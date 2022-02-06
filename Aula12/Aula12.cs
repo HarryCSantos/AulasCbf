@@ -6,7 +6,22 @@ class Aula12{
 
         //IF-->Se(Expressão_Lógica V) {executa a ação}
         
-        int nota=0;
+        int n1,n2,n3,n4;
+        n1=n2=n3=n4=0;
+
+        Console.WriteLine("Digite a nota 1: ");
+        n1=int.Parse(Console.ReadLine());
+
+        Console.WriteLine("Digite a nota 2: ");
+        n1=int.Parse(Console.ReadLine());
+
+        Console.WriteLine("Digite a nota 3: ");
+        n1=int.Parse(Console.ReadLine());
+
+        Console.WriteLine("Digite a nota 4: ");
+        n1=int.Parse(Console.ReadLine());
+
+
         string resultado="Reprovado";
 
         nota=int.Parse(Console.ReadLine());
