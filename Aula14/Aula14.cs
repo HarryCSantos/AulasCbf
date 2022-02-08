@@ -32,11 +32,13 @@ class Aula12{
             if(res >= 90){
                 if(res >= 99){
                     resultado="Aprovado com super louvor";
+                }else{
+                    resultado="Aprovado com louvor";
                 }
-                resultado="Aprovado com louvor";
             }else{
                 resultado="Aprovado";
-            }
+            }    
+            
         }else{
             if(res >= 40){
                 resultado="Recuperação";
