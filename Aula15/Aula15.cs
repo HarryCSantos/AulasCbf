@@ -23,6 +23,8 @@ class Aula15{
                 tempo=660;
                 break;
             default:
+                tempo=-1;
+                break;
         }
     }
 }
