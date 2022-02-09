@@ -22,7 +22,7 @@ class Aula15{
                 tempo=480;
                 break;
             case 'o':
-            case 'O';
+            case 'O':
                 tempo=660;
                 break;
             default:
