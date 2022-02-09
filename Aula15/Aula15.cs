@@ -21,6 +21,15 @@ class Aula15{
             case 'o': 
                 tempo=660;
                 break;
+            default:
+                tempo=-1;
+                break;
+        }
+        if(tempo<0){
+            Console.WriteLine("Transporte indisponível");
+        else{
+            Console.WriteLine("Para o transporte escolhido o tempo é: {0} minutos")
+        }
         }
     
     }
