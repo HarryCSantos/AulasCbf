@@ -10,6 +10,20 @@ class Aula15{
         Console.WriteLine("Escolha o transporte:[a]Avião | [c]Carro | [o]Ônibus ");
 
         escolha=char.Parse(Console.ReadLine());
+
+        switch (escolha)
+        {
+            case 'a':
+                tempo=50;
+                break;
+            case 'c':
+                tempo=480;
+                break;
+            case 'o':
+                tempo=660;
+                break;
+            default:
+        }
     }
 }
 // Até este ponto não foi identificado nenhum erro
