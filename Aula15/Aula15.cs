@@ -1,17 +1,16 @@
 using System;
 class Aula15{
-    
     static void Main(){
 
-    int tempo=0;
-    char escolha;
+        int tempo=0;
+        char escolha;
 
-    Console.WriteLine("Belo Horizonte/MG a Vitória/ES");
-    Console.WriteLine("Escolha o Transporte:[a]=Avião | [c]Carro | [o]Ônibus");
+        Console.WriteLine("Belo Horizonte/MG a Vitória/ES");
+        Console.WriteLine("Escolha o Transporte:[a]=Avião | [c]Carro | [o]Ônibus");
+        
+        escolha=char.Parse(Console.ReadLine());
 
-    escolha=char.Parse(Console.ReadLine());
-
-    switch (escolha){
+        switch (escolha){
             case 'a':
                 tempo=50;
                 break;
@@ -25,9 +24,11 @@ class Aula15{
                 tempo=-1;
                 break;
         }
+
         if(tempo<0){
             Console.WriteLine("Transporte indisponível");
         }else{
             Console.WriteLine("Para o transporte escolhido o tempo é: {0} minutos", tempo);
         }
+        
     }
