@@ -1,5 +1,6 @@
 using System;
-class Aula03{
+class Aula03
+    {
     static void Main(){
         byte n1=10; // 0 e 255
 
