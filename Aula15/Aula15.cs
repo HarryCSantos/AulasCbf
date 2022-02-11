@@ -15,15 +15,15 @@ class Aula15{
         {
             case 'a':
             case 'A':
-                tempo=50;
+                tempo=60;
                 break;
             case 'c':
             case 'C':
-                tempo=480;
+                tempo=490;
                 break;
             case 'o':
             case 'O':
-                tempo=660;
+                tempo=670;
                 break;
             default:
                 tempo=-1;
