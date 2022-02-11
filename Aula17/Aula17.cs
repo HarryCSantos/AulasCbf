@@ -1,4 +1,4 @@
-using Sustem;
+using System;
 class Aula17
 {
     static void Main()
@@ -10,5 +10,7 @@ class Aula17
         n[1] = 222;
         n[2] = 333;
         n[3] = 555;
+
+        Console.WriteLine(n[0]);
     }
 }
