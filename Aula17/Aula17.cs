@@ -12,16 +12,11 @@ class Aula17
         veiculo[0]="Carro";
         veiculo[1]="Avião";
         veiculo[2]="Navio";
-        veiculo[2]="Moto";
-        veiculo[2]="Ônibus";
+        veiculo[3]="Moto";
+        veiculo[4]="Ônibus";
         
-        
-        n[0] = 111;
-        n[1] = 222;
-        n[2] = 333;
-        n[3] = 555;
-        n[4] = 700 
+         
 
-        Console.WriteLine(num[2]);
+        Console.WriteLine(veiculo[2]);
     }
 }
