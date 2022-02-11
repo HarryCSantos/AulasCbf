@@ -51,7 +51,8 @@ class Aula15{
 
         else
         {
-            
+            Console.Clear();
+            Console.WriteLine("Fim do programa");
         }
 
     }
