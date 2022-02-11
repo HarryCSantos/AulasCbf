@@ -7,8 +7,9 @@ namespace Aula02
         static void Main(string[] args)
         {
              Console.WriteLine("Revisão de Domingo, Cursos");
-             if(args.GetLength(0)>0){ 
-             Console.Write(args.GetValue(0));
+             if(args.GetLength(0)>0)
+             { 
+             Console.Write(args.GetValue(5));
              }
         }    
     }
