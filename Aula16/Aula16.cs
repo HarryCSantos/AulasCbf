@@ -7,7 +7,7 @@ class Aula15{
         char escolha;
 
         inicio: 
-
+        
         Console.Clear();
 
         Console.WriteLine("Belo Horizonte/MG a Vitória/ES");
