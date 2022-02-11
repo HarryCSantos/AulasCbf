@@ -8,7 +8,7 @@ class Aula15{
 
         inicio: 
 
-        Console.clear();
+        Console.Clear();
 
         Console.WriteLine("Belo Horizonte/MG a Vitória/ES");
         Console.WriteLine("Escolha o transporte:[a]Avião | [c]Carro | [o]Ônibus ");
@@ -42,7 +42,7 @@ class Aula15{
             Console.WriteLine("Para o transporte escolhido o tempo é: {0} minutos",tempo);
         }
 
-        Console.WriteLine("Calcular outro transporte?[s/n]");
+        Console.Write("/nCalcular outro transporte?[s/n]");
         escolha=char.Parse(Console.ReadLine());
         if(escolha=='s'  || escolha=='s')
         {
