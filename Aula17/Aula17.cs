@@ -10,7 +10,11 @@ class Aula17
         string[] veiculos=new string[3];
 
         veiculo[0]="Carro";
-        veiculo[0]="Carro";
+        veiculo[1]="Avião";
+        veiculo[2]="Navio";
+        veiculo[2]="Moto";
+        veiculo[2]="Ônibus";
+        
         
         n[0] = 111;
         n[1] = 222;
