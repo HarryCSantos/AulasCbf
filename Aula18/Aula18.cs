@@ -27,6 +27,8 @@ class Aula18
             n[2,2]=45;
             n[2,3]=55;
             n[2,4]=65;
+
+            Console.WriteLine(num[1,3]);
             
         }
     
