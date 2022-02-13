@@ -3,13 +3,13 @@ class Aula17
 {
    static void Main()
    {
-       string[] pilotos = new string[4] {"Ayrton Senna", "Michael Schumacher", "Lewis Hamilton", "Alan Prost"};
-       Console.WriteLine(pilotos[3]);
-       Console.WriteLine();
-       pilotos[3] = "Rubens Barrichello";
-       foreach (string piloto in pilotos)
-       {
-           Console.WriteLine(piloto);
-       }
+       int n1, n2, n3, n4, n5;
+       int[] n=new int[5]; 
+
+       n[0]=111;
+       n[1]=222;
+       n[2]=333;
+       n[3]=444;
+       n[4]
    }
 }
