@@ -4,6 +4,7 @@ class Aula18
     static void Main()
         {
             int[,] n=new int[3,5];
+            //int[,] num=new int[2,2]{{10,20}},{30,40)};
             /*
             10 20 30 40 50
             60 70 80 90 15
@@ -28,7 +29,7 @@ class Aula18
             n[2,3]=55;
             n[2,4]=65;
 
-            Console.WriteLine(n[2,2]);
+            Console.WriteLine(num[0,1]);
             
         }
     
