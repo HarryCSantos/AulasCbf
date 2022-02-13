@@ -1,7 +1,7 @@
 using System;
 class Aula18
 {
-    sttic void Main()
+    static void Main()
         {
             int[,] n=new int[3,5];
             /*
@@ -12,13 +12,13 @@ class Aula18
 
             n[0,0]=10;
             n[0,1]=20;
-            n[0,2=30;
+            n[0,2]=30;
             n[0,3]=40;
             n[0,4]=50;
 
             n[1,0]=60;
             n[1,1]=70;
-            n[1,2=80;
+            n[1,2]=80;
             n[1,3]=90;
             n[1,4]=15;
 
@@ -28,7 +28,7 @@ class Aula18
             n[2,3]=55;
             n[2,4]=65;
 
-            Console.WriteLine(num[1,3]);
+            Console.WriteLine(n[2,2]);
             
         }
     
