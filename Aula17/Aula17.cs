@@ -10,6 +10,8 @@ class Aula17
        n[1]=222;
        n[2]=333;
        n[3]=444;
-       n[4]
+       n[4]=555;
+
+       Console.WriteLine(n[2]);
    }
 }
