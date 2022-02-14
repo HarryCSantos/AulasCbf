@@ -8,7 +8,7 @@ class Aula19
 
         for(int i=0;i<10;i++)
         {
-            num[i]=0;
+            num[i]=i;
            
         }
 
