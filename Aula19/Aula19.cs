@@ -5,9 +5,9 @@ class Aula19
     {
         int num;
         
-        for(e1,e2)
+        for(int num=0;num<10;num++)
         {
-            
+
         }
     }
 }
