@@ -9,12 +9,12 @@ class Aula19
         for(int i=0;i<10;i++)
         {
             num[i]=0;
-           Console.WriteLine(num[i]); 
+           
         }
 
         for(int i=0;i<10;i++)
         {
-            num[i]=0;
+            Console.WriteLine("Valor de num na pos{0}: {1}",i,num[i]);
         }
 
     }
