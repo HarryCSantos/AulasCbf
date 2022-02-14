@@ -29,7 +29,7 @@ class Aula18
             n[2,3]=55;
             n[2,4]=65;
 
-            Console.WriteLine(num[0,1]);
+            Console.WriteLine(n[0,1]);
             
         }
     
