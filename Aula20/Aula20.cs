@@ -1,3 +1,8 @@
+using System;
+
+class Aula20
+{
+
 static void Main()
 {
     int[] num=new int[10];
@@ -11,4 +16,6 @@ static void Main()
     {
         Console.WriteLine("Valor de num na pos{0}: {1}",i,num[i]);
     }
+}
+
 }
