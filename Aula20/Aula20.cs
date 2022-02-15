@@ -7,5 +7,8 @@ static void Main()
         num[i]=i;
     }
 
-    f
+    for(int i=0;i<num.Length;i++)
+    {
+        Console.WriteLine("Valor de num na pos{0}: {1}",i,num[i]);
+    }
 }
