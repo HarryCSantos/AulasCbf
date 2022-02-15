@@ -6,14 +6,12 @@ class Aula20
     {
     int[] num=new int[10];
 
-    int num=0;
+    int i=0;
 
-        while (e1)
+        while (i<10)
         {
         Console.WriteLine("CFB Cursos");
         i++;
         }
-
     }
-
 }
