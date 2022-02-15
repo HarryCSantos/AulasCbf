@@ -13,5 +13,6 @@ class Aula20
         Console.WriteLine("CFB Cursos");
         i++;
         }
+        Console.WriteLine("Fim do loop");
     }
 }
