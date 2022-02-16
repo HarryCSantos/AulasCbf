@@ -6,12 +6,12 @@ class Aula20
     {
         int[] num=new int[10];
 
-        int i=0;
-        while (i<num.Length)
+        int i=10;
+        while (i>0)
         {
             num[i]=0;
             Console.WriteLine(num[i]);
-            i++;
+            i--;
         }
         Console.WriteLine("Fim do loop");
     }
