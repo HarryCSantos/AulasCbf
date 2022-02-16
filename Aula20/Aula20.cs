@@ -7,10 +7,10 @@ class Aula20
         int[] num=new int[10];
 
         int i=0;
-        while (i<num.Lenght)
+        while (i<num.Length)
         {
-        Console.WriteLine("CFB Cursos");
-        i++;
+            num[i]=0;
+            i++;
         }
         Console.WriteLine("Fim do loop");
     }
