@@ -11,6 +11,7 @@ class Aula20
         {
             num[i]=0;
             i++;
+            Console.WriteLine(num[i]);
         }
         Console.WriteLine("Fim do loop");
     }
