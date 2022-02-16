@@ -6,7 +6,7 @@ class Aula20
     {
         int[] num=new int[10];
 
-        int i=9;
+        int i=num.Length-1;
         while (i>0)
         {
             num[i]=0;
