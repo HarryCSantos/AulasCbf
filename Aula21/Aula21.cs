@@ -5,7 +5,12 @@ class Aula21
     {
         while(cond)
         {
-            
+
         }
+
+        do
+        {
+
+        }while(cond);
     }
 }
