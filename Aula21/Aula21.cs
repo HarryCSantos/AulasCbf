@@ -9,9 +9,10 @@ class Aula21
 
         do
         {
+            Console.Clear();
             Console.WriteLine("Digite a senha: ");
             senhauser=Console.ReadLine();
         }
-        while(num<5);
+        while(senha != senhauser);
     }
 }
