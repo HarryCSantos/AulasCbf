@@ -3,14 +3,10 @@ class Aula21
 {
     static void Main()
     {
-        while(cond)
+        int num = 5;
+        while(cond<5)
         {
-
+            Console.WriteLine("CFB Cursos");
         }
-
-        do
-        {
-
-        }while(cond);
     }
 }
