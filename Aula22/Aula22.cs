@@ -4,7 +4,7 @@ class Aula22
 {
     static void Main()
     {
-        int[] num=new int[3]{11,22,33};
+        int[] num=new int[3]{11,22,33,44,55};
 
         for(int i=0;i<num.Length;i++)
         {
