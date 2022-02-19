@@ -4,7 +4,7 @@ class Aula21
     static void Main()
     {
         
-        string senha="12345";
+        string senha="hard1274";
         string senhauser;
         int tentativas = 0;
 
