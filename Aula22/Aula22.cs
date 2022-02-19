@@ -6,9 +6,9 @@ class Aula22
     {
         int[] num=new int[3]{11,22,33};
 
-        for(int i=0;i<num.Length;i++);
+        for(int i=0;i<num.Length;i++)
         {
-            Console.WriteLine(num[i];);
+            Console.WriteLine(num[i]);
         }
 
 
