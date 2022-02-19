@@ -10,14 +10,14 @@ class Aula21
 
         do
         {
-            Console.Clear();
+            
             Console.WriteLine("Digite a sua senha: ");
             senhauser=Console.ReadLine();
             tentativas++;
         }
         while(senha != senhauser);
 
-        Console.Clear();
+        
         Console.WriteLine("Senha Correta: tentativas: {0} ",tentativas);
     }
 }
