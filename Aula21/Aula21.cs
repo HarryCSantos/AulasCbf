@@ -4,14 +4,14 @@ class Aula21
     static void Main()
     {
         
-        string senha="hard1274";
+        string senha="123";
         string senhauser;
         int tentativas = 0;
 
         do
         {
             Console.Clear();
-            Console.WriteLine("Digite a senha: ");
+            Console.WriteLine("Digite a sua senha: ");
             senhauser=Console.ReadLine();
             tentativas++;
         }
