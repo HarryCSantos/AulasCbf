@@ -9,5 +9,9 @@ class Aula23
         int[,] matriz=new int[2,5]{{11,22,00,44,55},{66,77,88,99,00}};
 
         Random random=new Random();
+        for(int i=0;i<vetor1.Length;i++)
+        {
+            vetor1[i]=random.Next(50);
+        }
     }
 }
