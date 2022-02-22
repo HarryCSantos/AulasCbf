@@ -19,5 +19,9 @@ class Aula23
         {
             Console.WriteLine(n);
         }
+
+        //public static in BinarySearch(array,valor);
+        Console.WriteLine("BinarySearch");
+        int procurado=33;
     }
 }
