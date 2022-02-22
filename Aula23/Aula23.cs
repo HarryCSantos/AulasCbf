@@ -23,5 +23,7 @@ class Aula23
         //public static in BinarySearch(array,valor);
         Console.WriteLine("BinarySearch");
         int procurado=33;
+        int pos=Array.BinarySearch(vetor1,procurado);
+        Console.WriteLine("Valor {0} está na posição {1}",procurado,pos);
     }
 }
