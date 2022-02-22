@@ -13,5 +13,7 @@ class Aula23
         {
             vetor1[i]=random.Next(50);
         }
+
+        Console.WriteLine("Elementos do vetor1");
     }
 }
