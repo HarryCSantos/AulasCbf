@@ -15,5 +15,9 @@ class Aula23
         }
 
         Console.WriteLine("Elementos do vetor1");
+        foreach(int n in vetor1)
+        {
+            Console.WriteLine(n);
+        }
     }
 }
