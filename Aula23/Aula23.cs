@@ -29,7 +29,11 @@ class Aula23
 
         //public static void Copy(Ar_origem,Ar_destino,qtde_elementos);
         Console.WriteLine("Copy");
-        A
+        Array.Copy(vetor1,vetor2,vetor1.Length);
+        foreach(int n in vetor2)
+        {
+            Console.WriteLine(n); 
+        }
 
 
 
