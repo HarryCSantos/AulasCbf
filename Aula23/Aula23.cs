@@ -20,10 +20,20 @@ class Aula23
             Console.WriteLine(n);
         }
 
-        //public static in BinarySearch(array,valor);
+        //public static int BinarySearch(array,valor);
         Console.WriteLine("BinarySearch");
         int procurado=33;
         int pos=Array.BinarySearch(vetor1,procurado);
         Console.WriteLine("Valor {0} está na posição {1}",procurado,pos);
+        Console.WriteLine("-------------------------------------");
+
+        //public static void Copy(Ar_origem,Ar_destino,qtde_elementos);
+        Console.WriteLine("Copy");
+        A
+
+
+
+
+
     }
 }
