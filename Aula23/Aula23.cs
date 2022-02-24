@@ -47,6 +47,7 @@ class Aula23
 
         //public long GetLongLength(dimensão);
         Console.WriteLine("GetLongLength");
+        long qtdeElementosVetor=vetor1.GetLongLength(0);
     
         
 
