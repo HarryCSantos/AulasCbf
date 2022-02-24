@@ -78,7 +78,7 @@ class Aula23
         Console.WriteLine("Indice do primeiro valor 3:{0}",indice1);
         Console.WriteLine("-----------------------------------------");
 
-        //public static int IndexOf(array,valor);
+        //public static int LastIndexOf(array,valor);
         Console.WriteLine("LastIndexOf");
         int indice2=Array.LastIndexOf(vetor1,3);
         Console.WriteLine("Indice do último valor 33:{0}",indice2);
