@@ -43,6 +43,12 @@ class Aula23
         {
             Console.WriteLine(n);
         }
+        Console.WriteLine("-------------------------------------");
+
+        //public long GetLongLength(dimensão);
+        Console.WriteLine("GetLongLength");
+    
+        
 
 
 
