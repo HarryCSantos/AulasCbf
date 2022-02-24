@@ -67,7 +67,14 @@ class Aula23
 
         //public object GetValue(long índice);
         Console.WriteLine("GetValue");
+        int valor0=Convert.ToInt32(vetor1.GetValue(3));
+        int valor1=Convert.ToInt32(matriz.GetValue(1,3));
+        Console.WriteLine("Valor da posição 3 do vetor 1: {0}",valor0);
+        Console.WriteLine("-----------------------------------------");
+
         
+
+
 
 
 
