@@ -115,7 +115,11 @@ class Aula23
         {
             Console.WriteLine(n);
         }
-        
+        Console.WriteLine("\nVetor3");
+        foreach(int n in vetor3)
+        {
+            Console.WriteLine(n);
+        }
 
         
 
