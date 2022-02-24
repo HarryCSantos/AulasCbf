@@ -110,6 +110,14 @@ class Aula23
         {
             Console.WriteLine(n);
         }
+        Console.WriteLine("\nVetor2");
+        foreach(int n in vetor2)
+        {
+            Console.WriteLine(n);
+        }
+        
+
+        
 
         }
 
