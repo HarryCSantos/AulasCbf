@@ -75,7 +75,7 @@ class Aula23
         //public static int IndexOf(array,valor);
         Console.WriteLine("IndexOf");
         int indice=Array.IndexOf(vetor1,3);
-        Console.WriteLine("Indice do primeiro valor 3:{0}",indice1);
+        Console.WriteLine("Indice do primeiro valor 3:{0}",MaiorIndiceMatriz_D1);
         Console.WriteLine("-----------------------------------------");
 
         //public static int LastIndexOf(array,valor);
