@@ -48,6 +48,10 @@ class Aula23
         //public long GetLongLength(dimensão);
         Console.WriteLine("GetLongLength");
         long qtdeElementosVetor=vetor1.GetLongLength(0);
+        Console.WriteLine("Quantidade de elementos {0}",qtdeElementosVetor);
+        Console.WriteLine("-------------------------------------");
+
+        //public int GetLowerBound(dimensão);
     
         
 
