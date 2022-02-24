@@ -72,7 +72,9 @@ class Aula23
         Console.WriteLine("Valor da posição 3 do vetor 1: {0}",valor0);
         Console.WriteLine("-----------------------------------------");
 
-        
+        //public static int IndexOf(array,valor);
+        Console.WriteLine("IndexOf");
+        int indice=Array.IndexOf(vetor1,3);
 
 
 
