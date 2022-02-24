@@ -52,7 +52,7 @@ class Aula23
         Console.WriteLine("-------------------------------------");
 
         //public int GetLowerBound(dimensão);
-        Console.WriteLine("GeLowerBound");
+        Console.WriteLine("GetLowerBound");
         int MenorIndiceVetor=vetor1.GetLowerBound(0);
         int MenorIndiceMatriz_D1=matriz.GetLowerBound(1);
         Console.WriteLine("Menor Índice do valor1 {0}",MenorIndiceVetor);
@@ -61,7 +61,7 @@ class Aula23
         //public int GetUpperBound(dimensão);
         Console.WriteLine("GetUpperBound");
         int MenorIndiceVetor=vetor1.GetUpperBound(0);
-        int MenorIndiceMatriz_D1=matriz.GetLowerBound(1);
+        int MenorIndiceMatriz_D1=matriz.GetUpperBound(1);
         Console.WriteLine("Maior Índice do valor1 {0}",MaiorIndiceVetor);
         Console.WriteLine("---------------------------------------");
 
