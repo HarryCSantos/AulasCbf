@@ -97,7 +97,7 @@ class Aula23
         {
             vetor2.SetValue(0,i);
         }
-
+            Console.WriteLine("Vetor 2");
             foreach(int n in vetor2)
             {
                 Console.WriteLine(n);
