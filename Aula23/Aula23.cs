@@ -55,7 +55,9 @@ class Aula23
         Console.WriteLine("GeLowerBound");
         int MenorIndiceVetor=vetor1.GetLowerBound(0);
         int MenorIndiceMatriz_D1=matriz.GetLowerBound(1);
-        Console.
+        Console.WriteLine("Menor Índice do valor1 {0}",MenorIndiceVetor);
+        Console.WriteLine("---------------------------------------");
+        
 
 
 
