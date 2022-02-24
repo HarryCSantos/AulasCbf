@@ -86,7 +86,23 @@ class Aula23
 
         //public static void Reverse(array);
         Array.Reverse(vetor1);
-        foreach(int n in vetor1);
+        foreach(int n in vetor1)
+        {
+            Console.WriteLine(n);
+        }
+
+        //public void SetValue(object valor, long pos);
+        vetor2.SetValue(99,0);
+        for(int i=0;i<vetor2.Length;i++)
+        {
+            
+        }
+
+
+
+
+
+
 
 
 
