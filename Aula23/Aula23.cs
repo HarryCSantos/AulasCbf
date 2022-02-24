@@ -65,6 +65,8 @@ class Aula23
         Console.WriteLine("Maior Índice do valor1 {0}",MaiorIndiceVetor);
         Console.WriteLine("---------------------------------------");
 
+        //public object GetValue(long índice);
+        Console.WriteLine("GetValue");
         
 
 
