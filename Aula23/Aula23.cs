@@ -95,7 +95,11 @@ class Aula23
         vetor2.SetValue(99,0);
         for(int i=0;i<vetor2.Length;i++)
         {
-            
+            vetor2.SetValue("Vetor 2");
+            foreach(int n in vetor2)
+            {
+                Console.WriteLine(n);
+            }
         }
 
 
