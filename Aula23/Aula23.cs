@@ -62,7 +62,10 @@ class Aula23
         Console.WriteLine("GetUpperBound");
         int MenorIndiceVetor=vetor1.GetUpperBound(0);
         int MenorIndiceMatriz_D1=matriz.GetLowerBound(1);
+        Console.WriteLine("Maior Índice do valor1 {0}",MaiorIndiceVetor);
+        Console.WriteLine("---------------------------------------");
 
+        
 
 
 
