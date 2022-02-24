@@ -37,7 +37,7 @@ class Aula23
         Console.WriteLine("-------------------------------------");
 
         //public void CopyTo(Ar_destino,a_partir_desta_pos);
-        Console.Write.Line("CopyTo");
+        Console.WriteLine("CopyTo");
         vetor1.CopyTo(vetor3,0);
         foreach(int n in vetor3)
         {
