@@ -6,7 +6,7 @@ namespace Aula02
     {
         static void Main(string[] args)
         {
-             Console.WriteLine("Revisão de Domingo, Cursos");
+             Console.WriteLine("Inicio CFB Cursos");
              if(args.GetLength(0)>0)
              { 
              Console.Write(args.GetValue(5));
