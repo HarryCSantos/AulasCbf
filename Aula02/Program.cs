@@ -8,7 +8,7 @@ namespace Aula02
         {
 
             int = minhaidade 32;
-            int = meuobjetivo (3);
+            int = meuobjetivo 3;
 
              
         Console.WriteLine("Executando Aula 01, Curso CFB");
