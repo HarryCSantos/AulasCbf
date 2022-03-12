@@ -11,7 +11,7 @@ namespace Aula02
             idade = 32;
 
             char nome;
-            nome = 'Harry';
+            nome = 'H';
 
         Console.WriteLine("Executando Aula 01, Curso CFB" + idade + nome);
         }    
