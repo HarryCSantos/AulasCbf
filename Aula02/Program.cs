@@ -7,7 +7,7 @@ namespace Aula02
         static void Main(string[] args)
         {
              
-        Console.WriteLine("Executando Aula 01, Curso CFB")    
+        Console.WriteLine("Executando Aula 01, Curso CFB");
         }    
     }
 }
