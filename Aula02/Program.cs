@@ -14,7 +14,7 @@ namespace Aula02
           ano = 12;
             
 
-        Console.WriteLine("");
+        Console.WriteLine("Você possui " + meses + " de estudos");
         }    
     }
 }
