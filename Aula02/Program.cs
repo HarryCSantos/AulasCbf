@@ -14,7 +14,7 @@ namespace Aula02
             carreira = 5;
             
 
-        Console.WriteLine("Executando Aula 01, Curso CFB");
+        Console.WriteLine("Harry sua idade é " + idade + " anos, e conforme o seu objetivo você será senior em até " + carreira + " anos.");
         }    
     }
 }
