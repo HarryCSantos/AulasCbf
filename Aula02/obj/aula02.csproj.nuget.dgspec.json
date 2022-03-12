@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\harry\\Desktop\\My-Projects\\C#aulas\\aula02\\aula02.csproj": {}
+    "C:\\Users\\harry\\Desktop\\My-Projects\\C#aulas\\Aula02\\aula02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\harry\\Desktop\\My-Projects\\C#aulas\\aula02\\aula02.csproj": {
+    "C:\\Users\\harry\\Desktop\\My-Projects\\C#aulas\\Aula02\\aula02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\harry\\Desktop\\My-Projects\\C#aulas\\aula02\\aula02.csproj",
+        "projectUniqueName": "C:\\Users\\harry\\Desktop\\My-Projects\\C#aulas\\Aula02\\aula02.csproj",
         "projectName": "aula02",
-        "projectPath": "C:\\Users\\harry\\Desktop\\My-Projects\\C#aulas\\aula02\\aula02.csproj",
+        "projectPath": "C:\\Users\\harry\\Desktop\\My-Projects\\C#aulas\\Aula02\\aula02.csproj",
         "packagesPath": "C:\\Users\\harry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\harry\\Desktop\\My-Projects\\C#aulas\\aula02\\obj\\",
+        "outputPath": "C:\\Users\\harry\\Desktop\\My-Projects\\C#aulas\\Aula02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\harry\\AppData\\Roaming\\NuGet\\NuGet.Config",
