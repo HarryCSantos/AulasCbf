@@ -7,10 +7,14 @@ namespace Aula02
         static void Main()
         {
              
-            
+          int meses;
+          meses = 2;  
+
+          int ano;
+          ano = 12;
             
 
-        Console.WriteLine("Harry sua idade é " + idade + " anos, e conforme o seu objetivo você será senior em até " + carreira + " anos.");
+        Console.WriteLine("");
         }    
     }
 }
