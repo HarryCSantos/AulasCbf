@@ -7,7 +7,8 @@ namespace Aula02
         static void Main(string[] args)
         {
              
-            int = idade 32;
+            int = idade;
+            
 
         Console.WriteLine("Executando Aula 01, Curso CFB");
         }    
